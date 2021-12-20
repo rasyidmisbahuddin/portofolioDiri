@@ -1,5 +1,5 @@
 # Portofolio Template
-<img src="https://github.com/rasyidmisbahuddin/portofolioDiri/blob/main/portofolio%20.jpeg" alt="drawing" width="200"/>
+<img src="https://github.com/rasyidmisbahuddin/portofolioDiri/blob/main/portofolio%20.jpeg" alt="drawing" width="300"/>
 
 
 # CodeIgniter 4 Application Starter
