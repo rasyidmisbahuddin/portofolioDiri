@@ -1,6 +1,6 @@
 # Portofolio Template
 <p align="center">
-<img src="https://github.com/rasyidmisbahuddin/portofolioDiri/blob/main/portofolio%20.jpeg" alt="drawing" width="300"/>
+<img src="https://github.com/rasyidmisbahuddin/portofolioDiri/blob/main/portofolio%20.jpeg" alt="drawing" width="500"/>
 </p>
 
 # CodeIgniter 4 Application Starter
